@@ -10,7 +10,9 @@ pillow
 psutil
 pykeyboard
 pyrogram
+pytgcalls
 python-arq
+asyncio
 requests
 search_engine_parser
 speedtest-cli
@@ -25,3 +27,4 @@ fuzzysearch
 img2pdf
 telegraph
 pytube
+wget
